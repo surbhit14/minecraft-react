@@ -16,6 +16,7 @@
     "react-three-fiber": "^4.2.21",
     "three": "^0.120.1",
     "use-cannon": "^0.5.0",
+    "web3": "^1.7.1",
     "zustand": "^3.0.3"
   },
   "scripts": {
